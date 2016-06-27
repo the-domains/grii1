@@ -1,7 +1,7 @@
 name: grii1
 favicon: null
-layout_spectrum: 0.4689822718501091
-typography_spectrum: 0.825040050316602
+layout_spectrum: 0.27202
+typography_spectrum: 0.89824
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.37423473759554327
+  brandStrength: 0.8125
   lightness: 0.4460665564984083
   saturation: 0.5680214252788574
   rhythmicContrast: 0.3145831534639001
